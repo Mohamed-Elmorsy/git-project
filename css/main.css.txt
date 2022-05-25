@@ -1,3 +1,4 @@
-main {
+body {
       font-size : 20px;
+      color : red; 
 }
